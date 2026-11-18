@@ -1,0 +1,8 @@
+{
+  // ARC Ridas motion catalog: static site served from ./public
+  "name": "arc-catalog",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
