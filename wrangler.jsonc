@@ -4,5 +4,10 @@
   "compatibility_date": "2026-11-01",
   "assets": {
     "directory": "./public"
-  }
+  },
+  "routes": [
+    { "pattern": "catalog.arcridas.com", "custom_domain": true },
+    { "pattern": "arcridas.com", "custom_domain": true },
+    { "pattern": "www.arcridas.com", "custom_domain": true }
+  ]
 }
